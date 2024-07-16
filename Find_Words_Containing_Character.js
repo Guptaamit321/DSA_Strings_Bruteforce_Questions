@@ -4,7 +4,7 @@
 // Return an array of indices representing the words that contain the character x.
 // Note that the returned array may be in any order.
 
-/* Example 1  :
+/* Example 1:
 
 Input: words = ["leet","code"], x = "e"
 Output: [0,1]
