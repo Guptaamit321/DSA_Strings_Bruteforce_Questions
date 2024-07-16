@@ -36,7 +36,7 @@ var findWordsContaining = (words, x) => {
     return resultWordsContaining;
   };
   
-  console.log(findWordsContaining(['abgg', 'def', 'gfg'], 'g'));
+  findWordsContaining(['abgg', 'def', 'gfg'], 'g');
 
   
   // Approach 2
@@ -51,4 +51,4 @@ var findWordsContaining = (words, x) => {
     return resultWordsContaining;
   };
   
-  console.log(findWordsContaining([], 'z'));
+  findWordsContaining([], 'z');

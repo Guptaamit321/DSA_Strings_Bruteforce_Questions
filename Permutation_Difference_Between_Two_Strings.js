@@ -38,4 +38,4 @@ const findPermutationDifference = (s, t) => {
     return resultPermutationDifference;
 };
 
-console.log(findPermutationDifference('abc', 'bac'));
+findPermutationDifference('abc', 'bac');
